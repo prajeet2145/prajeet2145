@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Prajeet 👋
 
-<!--
-**prajeet2145/prajeet2145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 C Programming Enthusiast  
+🚀 Learning Cyber Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Projects
+
+### Password Strength Checker (C)
+A C program that checks password strength based on:
+- Minimum length
+- Uppercase and lowercase letters
+- Digits
+- Special characters
+
+🔗 GitHub Repository:
+https://github.com/prajeet2145/Password-Strength-Checker-C
+
+---
+
+## 🛠 Skills
+- C Programming
+- Git & GitHub
+- Problem Solving
